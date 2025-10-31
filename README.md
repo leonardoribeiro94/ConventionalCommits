@@ -6,7 +6,7 @@
 
 ## 🧩 **Estrutura do Commit**
 
-Cada commit deve seguir o formato:
+Cada commit deve seguir o formato: 
 
 ```bash
 <type>(<scope>): <short summary>
